@@ -1,2 +1,2 @@
 # feature-login-system
-Feature branches organize development and integration for the login system.
+Login feature provides secure authentication with structured components, validation logic, session handling, and error management.
